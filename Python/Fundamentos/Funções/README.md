@@ -41,3 +41,6 @@ Crie uma função que:
 Crie uma função que:
 - recebe idade
 - retorna:
+    - criança" (0–12)
+    - adolescente" (13–17)
+    - adulto" (18+)
